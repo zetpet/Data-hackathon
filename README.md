@@ -1,29 +1,28 @@
-# Московский студенческий DATA-хакатон
+# Moscow student DATA-hackathon
 
-**Команда:** Data Wizards.
-- Иван Николаев
-- Роман Абабков
-- Кирилл Смирнов
-- Арсений Агафонов
+**Team:** Data Wizards.
+- Ivan Nikolaev
+- Roman Ababkov
+- Kirill Smirnov
+- Arseniy Agafonov
 
-**Описание задачи:**
-Оценка влияния активности пользователя на уроке на образовательные метрики.
+**Problem Description:**
+Evaluation of the impact of user activity during a lesson on educational metrics.
 
-**Ожидаемый результат:**
-Интерактивный отчёт, демонстрирующий связь между пользовательской активностью на уроке и образовательными метриками.
+**Expected Outcome:**
+An interactive report demonstrating the relationship between user activity during a lesson and educational metrics.
 
-**RoadMap проекта:**
-1. Структура БД
-2. Разведочный анализ и обработка данных
-3. Оценка влияния активности пользователя на уроке на образовательные метрики с помощью корреляционной матрицы
-4. Модель предсказания риска расторжения договора
+**Project Roadmap:**
+1. Database Structure
+2. Exploratory data analysis and data preprocessing
+3. Evaluation of the impact of user activity during a lesson on educational metrics using correlation matrix
+4. Prediction model for contract termination risk
 
-**Интерактивный отчет в Yandex DataLens:**
+**Interactive Report in Yandex DataLens:**
 https://datalens.yandex/lmv1w8iydr4qb
 
-**Общий вывод:** Факторы, не зависящие от учителей, влияют на результаты обучения учащихся, мотивируя исследование альтернативных методов обучения.
-Индивидуальное обучение слишком дорого для большинства учеников, чтобы его можно было использовать в больших масштабах. Кроме того, ключевой элемент мастерского 
-обучения заключается в том, что оно требует внимания к отдельным учащимся, а не к оценке групповой работы.
+**General Conclusion:** Factors independent of teachers influence students' learning outcomes, motivating the exploration of alternative teaching methods.
+Individualized instruction is too expensive for most students to be used on a large scale. Additionally, a key element of mastery learning is the focus on individual students rather than assessing group work.
 
-**Результат:**
-2 место
+**Result:**
+2nd place
